@@ -1,0 +1,7 @@
+set realname = "It's time to change your password"
+set from = no-reply@domain.com
+set use_from = yes
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set smtp_url = 'smtps://no-reply@domain.com@smtp.google.com:465'
+set smtp_pass = "pass-from-your_no-reply@domain.com_user"
